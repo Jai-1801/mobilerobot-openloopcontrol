@@ -159,8 +159,6 @@ if _name_ == '_main_':
 
 ![robo02](/ss.png)
 
-![robo02](/qq.jpeg)
-
 ## MobileRobot Movement Video:
 
 
